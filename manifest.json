@@ -1,6 +1,6 @@
 {
 	"id": "share-wechat",
-	"name": "分享到微信",
+	"name": "Share to WeChat",
 	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "将笔记分享到微信，保留 Markdown 格式与内部链接。支持文本分享与渲染截图。",
